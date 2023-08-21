@@ -8,7 +8,7 @@ A new Flutter project.
 it is important to mention that these programs were written by a junior developer and may have some Bugs, but if there is an update or something special in mind, i will definitely add it and upload it to linkedin, github, and instagram. in addition, if you need a video tutorial i will upload it on youtube soon! :)))
 
 
-if you have any question about the app or bugs feel free to text me in instagram  :)
+if you have any question about the app text me :)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
