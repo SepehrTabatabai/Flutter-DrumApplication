@@ -5,7 +5,11 @@ Welcome to the Flutter Drum Application! This is a mobile app developed using th
 
 A new Flutter project.
 
-it is important to mention that these programs were written by a junior developer and may have some Bugs, but if there is an update or something special in mind, i will definitely add it and upload it to linkedin, github, and instagram. in addition, if you need a video tutorial i will upload it on youtube soon! :)))
+it is important to mention that these programs were written by a junior developer and may have some Bugs!!
+
+## Screenshots
+
+![Capture](https://github.com/SepehrTabatabai/Flutter-DrumApplication/assets/139041250/7795cb4e-2d29-4105-b280-007a258d7e50)
 
 
 if you have any question about the app text me :)
